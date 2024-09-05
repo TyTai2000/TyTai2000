@@ -2,7 +2,8 @@
 
 Welcome to my GitHub! I'm a **Quantitative Finance** and **Data Science** enthusiast passionate about solving complex financial problems and automating processes using cutting-edge technologies. Currently, I'm pursuing my M.S. in **Quantitative Finance / Financial Mathematics** at Rutgers Business School, specializing in **Machine Learning**.
 
-With experience in both academic and professional settings, I've worked on projects ranging from **Monte Carlo Simulations for options pricing** to building **machine learning models** for stock price prediction and drug persistency. I'm constantly learning and exploring new ways to apply **data science** and **engineering principles** to finance, technology, and business.
+With experience in both academic and professional settings, I've worked on projects ranging from **Monte Carlo Simulations for options pricing (ongoing)** to building **machine learning models** for stock price and to appraise soccer players’ market value using FIFA 23 Official Dataset
+ prediction. I'm constantly learning and exploring new ways to apply **data science** and **engineering principles** to finance, and technology
 
 ---
 
